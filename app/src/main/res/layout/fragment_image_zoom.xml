@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/zoomimageView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/todo"/>
+
+
+ <!-- <android.support.v4.view.ViewPager
+      android:id="@+id/viewPager"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="8dp"
+      android:layout_marginTop="8dp"
+      android:layout_marginEnd="8dp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <LinearLayout
+      android:id="@+id/dotsLayout"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="8dp"
+      android:gravity="center"
+      android:orientation="horizontal"
+      app:layout_constraintBottom_toBottomOf="@+id/viewPager"
+      app:layout_constraintEnd_toEndOf="@+id/viewPager"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@+id/viewPager" />
+
+  <ImageView
+      android:id="@+id/image_privious"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="8dp"
+      android:background="@drawable/rectangle_gray"
+      android:contentDescription="@string/todo"
+      android:visibility="gone"
+      android:src="@drawable/ic_arrow_back"
+      android:padding="@dimen/margin_8dp"
+      app:layout_constraintBottom_toBottomOf="@+id/viewPager"
+      app:layout_constraintEnd_toEndOf="@id/viewPager"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="@id/viewPager"
+      app:layout_constraintTop_toTopOf="@id/viewPager" />
+
+
+  <ImageView
+      android:id="@+id/image_next"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginEnd="8dp"
+      android:background="@drawable/rectangle_gray"
+      android:src="@drawable/ic_arrow_next"
+      android:contentDescription="@string/todo"
+      android:padding="@dimen/margin_8dp"
+      app:layout_constraintBottom_toBottomOf="@+id/viewPager"
+      app:layout_constraintEnd_toEndOf="@id/viewPager"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="@id/viewPager"
+      app:layout_constraintTop_toTopOf="@id/viewPager" />
+-->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+</android.support.constraint.ConstraintLayout>

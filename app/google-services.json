@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "1002003772975",
+    "firebase_url": "https://mumlatzim-178312.firebaseio.com",
+    "project_id": "mumlatzim-178312",
+    "storage_bucket": "mumlatzim-178312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002003772975:android:00b74398548bc887",
+        "android_client_info": {
+          "package_name": "app.mumlatzim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002003772975-abhl32v620qibc3ugu47tf7m8s0561gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mumlatzim",
+            "certificate_hash": "bfcad504c50da163c771af1bd9e6d2cc309c7435"
+          }
+        },
+        {
+          "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiipAmeYAhB5ioDBlZWjQNJlXUiJXhSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002003772975:android:1fb7c7a051005f62",
+        "android_client_info": {
+          "package_name": "app.mumlatzim.mumlatzim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiipAmeYAhB5ioDBlZWjQNJlXUiJXhSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002003772975:android:25fc54a127563710",
+        "android_client_info": {
+          "package_name": "com.mumlatzim.mumlatzimv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002003772975-ki0qc3n188rtr672967to7phli4pk0ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mumlatzim.mumlatzimv2",
+            "certificate_hash": "4ac499ce7190cb5fc0e63fb8c34961f4949dbca8"
+          }
+        },
+        {
+          "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiipAmeYAhB5ioDBlZWjQNJlXUiJXhSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002003772975:android:e0443377cddf6638",
+        "android_client_info": {
+          "package_name": "com.mumlatzim.mumlatzimv2.wpnewz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002003772975-p1nre20jorqe61eu3k347cd0126le0av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mumlatzim.mumlatzimv2.wpnewz",
+            "certificate_hash": "4ac499ce7190cb5fc0e63fb8c34961f4949dbca8"
+          }
+        },
+        {
+          "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiipAmeYAhB5ioDBlZWjQNJlXUiJXhSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002003772975-6uk0cbho9vhdt8u1kba7aun0er3l55h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

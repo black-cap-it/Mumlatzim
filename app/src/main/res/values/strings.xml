@@ -1,0 +1,250 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">המומלצים</string>
+    <string name="tagline">קונים חכם, חיים טוב!</string>
+
+    <!-- AfterShip Api key -->
+    <string name="track_mumlatzim">b3601951-0ce1-4b95-8cf7-0f5aab06c947</string>
+
+    <!-- app ad section -->
+    <string name="app_ad_id">ca-app-pub-6339556335462675~6221199431</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6339556335462675/7525182489</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-6339556335462675/6679004670</string>
+    <!-- end of the ad section -->
+
+    <!-- app social site links section -->
+    <!-- <string name="facebook_url">https://www.facebook.com/helpfulappsbd/</string>  -->
+    <string name="youtube_url">https://</string>
+    <string name="twitter_user_id">twitter://</string> <!-- find your user id from here: http://gettwitterid.com/  -->
+    <string name="twitter_url">https://twitter.com/</string>
+    <string name="google_plus_url">https://plus.google.com/</string>
+
+    <!-- terms and conditions, privacy policy and faq url -->
+    <string name="terms_url">https://docs.google.com/</string>
+    <string name="privacy_url">https://docs.google.com/</string>
+    <string name="faq_url">https://docs.google.com/</string>
+
+    <!-- about developer text  -->
+    <string name="developer_name">MUMLATZIM</string>
+    <string name="developer_detail">OVERTHERE</string>
+    <string name="developer_message">שתף אותנו לחברים</string>
+
+    <!-- developer page: replace the developer id by yours -->
+    <string name="developer_page">market://dev?id=9082460539100844090</string>
+    <string name="alternate_dev_page">https://play.google.com/store/apps/dev?id=9082460539100844090</string>
+
+
+    <string name="site_menu_home">ראשי</string>
+    <string name="site_menu_category_list">קטגוריות</string>
+    <string name="site_menu_book">פוסטים שמורים</string>
+    <string name="site_menu_copy">העתק</string>
+    <string name="site_menu_share">שתף</string>
+    <string name="site_menu_delete_all">מחק הכל</string>
+    <string name="site_menu_read_article">פתח פוסט</string>
+    <string name="site_menu_stop_reading">הפסק קריאה</string>
+    <string name="site_menu_copy_text">העתק טקסט</string>
+    <string name="site_menu_share_post">שתף מציאה</string>
+    <string name="site_menu_download">הורד תמונה</string>
+    <string name="site_menu_set">קבע כרקע</string>
+    <string name="site_menu_new_comment">תגובה חדשה</string>
+    <string name="site_menu_ordered">רשימת הקניות שלי</string>
+    <string name="delete_all_fav_item">למחוק הכל?</string>
+    <string name="delete_fav_item">בטוח?</string>
+    <string name="social">בקר אותנו</string>
+    <string name="youtube">YouTube</string>
+    <string name="facebook">פייסבוק</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google Plus</string>
+
+
+    <string name="others">עוד</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="share">שתף</string>
+    <string name="rate">דרג אותנו</string>
+    <string name="more_app">More Apps</string>
+    <string name="settings">הגדרות</string>
+    <string name="about_dev">About Developer</string>
+    <string name="exit">צא</string>
+    <!-- end of the site configuration section-->
+
+    <string name="search">חיפוש</string>
+
+    <string name="rate_title">דרג אותנו</string>
+    <string name="rate_message">בבקשה דרג את האפליקציה שלנו</string>
+    <string name="rate_positive">דרג עכשיו</string>
+    <string name="rate_remind_later">אחר כך</string>
+    <string name="rate_never">לא תודה</string>
+    <string name="empty_result">אין מידע!</string>
+    <string name="connect">התחבר</string>
+    <string name="openDrawer">פתח מגירה</string>
+    <string name="closeDrawer">סגור מגירה</string>
+    <string name="tapAgain">לחץ שוב בשביל לצאת</string>
+    <string name="permission_not_granted">אין גישה!</string>
+    <string name="load_more">טוען עוד פריטים...</string>
+    <string name="default_string">ברירת מחדל</string>
+    <string name="latest_post">אחרונים</string>
+    <string name="featured_post">מיוחדים</string>
+    <string name="details_text">פרטים</string>
+    <string name="comment_list">תגובות</string>
+    <string name="user_name">שם</string>
+    <string name="user_email">אימייל</string>
+    <string name="user_comment">תגובה</string>
+    <string name="write_comment">כתוב תגובה...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="successful_message">התגובה נשלחה בהצלחה</string>
+    <string name="error_message">בעיה רצינית, נסה שוב</string>
+    <string name="hash_tag">#</string>
+    <string name="featured_posts">פוסטים חמים</string>
+    <string name="recent_posts">פוסטים אחרונים</string>
+    <string name="view_all">הצג הכל</string>
+    <string name="featured">פוסטים חמים</string>
+    <string name="recent">פוסטים אחרונים</string>
+    <string name="tts_wait_msg">This article will be read in short. Please wait a while...</string>
+    <string name="tts_install_msg">Please install Language package from here</string>
+    <string name="related_posts">פוסטים קשורים</string>
+    <string name="view_comments">(%d) קרא את כל התגובות</string>
+    <string name="write_a_comment">כתוב תגובה חדשה</string>
+
+
+    <string name="share_text">\nהתקן אפליקציה מפה:</string>
+    <string name="send_to">שלח ל: </string>
+    <string name="copy_to_clipboard">הועתק</string>
+    <string name="added_to_bookmark">נוסף לשמורים!</string>
+    <string name="removed_from_book">נמחק מהשמורים!</string>
+    <string name="wallpaper_set">Wallpaper successfully set!</string>
+    <string name="wallpaper_set_failed">Failed to set Wallpaper!</string>
+    <string name="wallpaper_download">התמונה ירדה בהצלחה</string>
+    <string name="wallpaper_download_failed">לא מצליח להוריד תמונה</string>
+    <string name="delete_all_notification">למחוק את כל ההתראות?</string>
+
+    <string name="close_prompt">בטוח שתרצה לצאת?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="failed">נכשל</string>
+    <string name="no_internet">אין אינטרנט!</string>
+
+
+    <string name="matches">מתאימים</string>
+    <string name="placeholder">..</string>
+    <string name="notifications">התראות</string>
+    <string name="read_post">קרא פוסט</string>
+    <string name="notification_title">התראה: </string>
+    <string name="notification_details">פרטי ההתראה: </string>
+
+
+    <string name="pref_notification_title">התראות</string>
+    <string name="pref_notification_summ">הפעל/בטל התראות</string>
+    <string name="pref_zoom_title">שליטה על זום</string>
+    <string name="pref_zoom_summ">שנה זום</string>
+    <string name="pref_text_title">גודל טקסט</string>
+    <string name="select_size">בחר גודל הטקסט</string>
+
+    <string name="small_text">קטן</string>
+    <string name="default_text">רגיל</string>
+    <string name="large_text">ענק</string>
+
+    <!-- MainActivity-->
+    <string name="gridView">שינוי תצוגה</string>
+    <string name="linearView">שינוי תצוגה</string>
+    <string name="digital">DIGITAL</string>
+
+    <!--PostDetailsActivity -->
+    <string name="noBrowser">אין יישום שיכול לטפל בבקשה זו. אנא התקן דפדפן אינטרנט.</string>
+    <string name="click_to_purchase">לרכישה לחצו כאן</string>
+    <string name="not_available">לא פעיל</string>
+    <string name="todo">todo</string>
+    <string name="coupon">העתקת קופון</string>
+    <string name="couponApplied">הועתק</string>
+    <string name="coupon_copied">הקופון הועתק ללוח</string>
+    <string name="report">דיווח</string>
+    <string name="report_message">הקישור אינו פועל? אתה יכול לדווח לנו</string>
+    <string name="report_submsg">לדווח?</string>
+    <string name="report_yes">כן</string>
+    <string name="report_no">לא</string>
+    <string name="zoomImages">הצגת תמונה</string>
+    <string name="add_orderedlist">הוסף לרשימת קניות</string>
+    <string name="remove_orderedList">מחק מרשימת קניות</string>
+    <string name="toast_addedOrdered">נוסף לרשימת קניות</string>
+    <string name="toast_removedOrder">נמחק מרשימת קניות</string>
+
+
+    <!--Navigation Menu categories -->
+    <string name="electronics">אלקטרוניקה</string>
+    <string name="wallets">ארנקים וחגורות</string>
+    <string name="clothes">בגדים</string>
+    <string name="men_clothes">בגדי גברים</string>
+    <string name="children_clothes">בגדי ילדים</string>
+    <string name="women_clothes">בגדי נשים</string>
+    <string name="animals">בעלי חיים</string>
+    <string name="private_sites">האתרים הפרטיים</string>
+    <string name="football">כדורגל</string>
+    <string name="hats">כובעים</string>
+    <string name="tools">כלי עבודה</string>
+    <string name="accessories">אביזרים</string>
+    <string name="general">כללי</string>
+    <string name="home_products">מוצרים לבית</string>
+    <string name="coats">מעילים ובגדי חורף</string>
+    <string name="family">משפחה</string>
+    <string name="sunglasses">משקפי שמש</string>
+    <string name="shoes">נעליים</string>
+    <string name="watch">שעונים</string>
+    <string name="bags">תיקים</string>
+    <string name="facebook1">הדף הראשי</string>
+    <string name="fbdigital">דיגיטל</string>
+    <string name="fbfamily">למשפחה</string>
+    <string name="group">חברים משתפים</string>
+    <string name="telegram">טלגרם</string>
+    <string name="chat">דברו איתנו</string>
+    <string name="tag">כל התגיות</string>
+    <string name="jewellery">תכשיטים וקוסמטיקה</string>
+
+    <!--Menu Categories Id's -->
+    <string name="electronicsID">61</string>
+    <string name="walletsID">51</string>
+    <string name="men_clothesID">1</string>
+    <string name="children_clothesID">225</string>
+    <string name="women_clothesID">105</string>
+    <string name="animalsID">182</string>
+    <string name="private_sitesID">103</string>
+    <string name="footballID">31</string>
+    <string name="hatsID">18</string>
+    <string name="toolsID">180</string>
+    <string name="generalID">74</string>
+    <string name="home_productsID">110</string>
+    <string name="coatsID">107</string>
+    <string name="familyID">195</string>
+    <string name="sunglassesID">26</string>
+    <string name="shoesID">4</string>
+    <string name="watchID">17</string>
+    <string name="bagsID">36</string>
+    <string name="jewelleryID">106</string>
+
+    <!-- facebook urls-->
+    <string name="facebook_url">https://facebook.com/AliForIsrael/</string>
+    <string name="digital_url">https://facebook.com/AliForDigitalIsrael/</string>
+    <string name="family_url">https://facebook.com/FamilyForIsrael/</string>
+    <string name="group_url">https://www.facebook.com/groups/AliexpressForIsraelGroup/</string>
+    <string name="telegram_url">https://t.me/hamumlatzim</string>
+    <string name="chat_url">https://www.messenger.com/t/AliForIsrael</string>
+
+    <!-- Bookmark layout -->
+    <string name="track_no">הוסף מספר מעקב</string>
+    <string name="add_screenshot">הוסף צילום מסך</string>
+    <string name="view_screenshot">פתח צילום מסך</string>
+    <string name="message_permission">הרשאות אלה הן חובה עבור היישום, בבקשה לאפשר גישה!</string>
+    <string name="alert_ok">אישור</string>
+
+    <!-- Ordered_dialog-->
+    <string name="add_to_trackButton">הוסף</string>
+    <string name="cancel_button">ביטול</string>
+    <string name="enter_track">הזן מספר מעקב</string>
+    <string name="search_courier">שליח חיפוש</string>
+    <string name="tracking_title">הוספת מספר מעקב</string>
+    <string name="newImage">אישור</string>
+    <string name="image_notFound">Either Image deleted or moved to other location</string>
+
+
+
+</resources>
